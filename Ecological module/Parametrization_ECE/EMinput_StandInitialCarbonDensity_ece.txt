@@ -1,0 +1,10 @@
+Boreal         0.078976755
+Desert         0.131541994
+DesertCold     0.118544896
+Semiarid       0.341396945
+TemperateDry   0.202298259
+TemperateHumid 0.188767283
+TropicalDry    0.453903681
+TropicalHumid  0.464273601
+Tundra         0.024924189
+Unproductive   0.007931904

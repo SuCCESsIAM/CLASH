@@ -1,0 +1,25 @@
+* forest carbon density (kg C per m2) to stem volume (m3 per ha) conversion factors by biome
+
+LU_d_to_v_conv('Boreal')         = 28.4;
+LU_d_to_v_conv('Desert')         = 5.6;
+LU_d_to_v_conv('DesertCold')     = 27.0;
+LU_d_to_v_conv('Semiarid')       = 17.0;
+LU_d_to_v_conv('TemperateDry')   = 21.4;
+LU_d_to_v_conv('TemperateHumid') = 29.5;
+LU_d_to_v_conv('TropicalDry')    = 21.1;
+LU_d_to_v_conv('TropicalHumid')  = 22.8;
+LU_d_to_v_conv('Tundra')         = 28.4;
+LU_d_to_v_conv('Unproductive')   = 28.4;
+
+* wood carbon density (t C per m3) by biome
+
+LU_wood_Cdens('Boreal')          = 0.190;
+LU_wood_Cdens('Desert')          = 0.215;
+LU_wood_Cdens('DesertCold')      = 0.190;
+LU_wood_Cdens('Semiarid')        = 0.215;
+LU_wood_Cdens('TemperateDry')    = 0.215;
+LU_wood_Cdens('TemperateHumid')  = 0.215;
+LU_wood_Cdens('TropicalDry')     = 0.240;
+LU_wood_Cdens('TropicalHumid')   = 0.240;
+LU_wood_Cdens('Tundra')          = 0.190;
+LU_wood_Cdens('Unproductive')    = 0.190;
